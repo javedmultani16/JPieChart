@@ -3,6 +3,12 @@
 
 JPieChart is a best Pie Chart for displaying. It's written for iOS, in Swift (UIKit, not SwiftUI). 
 
+![Screenshot 2022-03-03 at 8 39 53 PM](https://user-images.githubusercontent.com/16849127/156592693-5c4a44ff-88ac-48bd-abe0-939d3705692b.png)
+![Screenshot 2022-03-03 at 8 33 41 PM](https://user-images.githubusercontent.com/16849127/156592704-feb271d9-7edf-45b2-b64f-f684c7df9806.png)
+![Screenshot 2022-03-03 at 8 36 16 PM](https://user-images.githubusercontent.com/16849127/156592711-0bb3f7f0-dff0-4696-93c6-21a1934a959b.png)
+![Screenshot 2022-03-03 at 8 30 25 PM](https://user-images.githubusercontent.com/16849127/156592720-4832043d-ada0-462a-9983-118068dcf323.png)
+![Screenshot 2022-03-03 at 8 35 14 PM](https://user-images.githubusercontent.com/16849127/156592730-d703ac60-47bd-460e-a298-cad92a97cee1.png)
+
 
 ## Installation
 Copy the JPieChart folder to your XCode projects
