@@ -1,5 +1,6 @@
 # JPieChart
 
+Beautiful and easy Pie Chart for iOS
 
 JPieChart is a best Pie Chart for displaying. It's written for iOS, in Swift (UIKit, not SwiftUI). 
 
